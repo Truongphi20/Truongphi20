@@ -17,6 +17,7 @@
 - Have a passion for researching and creating algorithms
 - Currently looking to apply math to find the principles of biology 
 - With the ambition to control and program the bio-world.
+- I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Truongphi20/Truongphi20/blob/main/Phi_nguyen_cv.pdf)
 
 <br><br>
 
