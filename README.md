@@ -1,5 +1,5 @@
 
-<h1 align="center"><b>Hi , I'm Phi Nguyen Truong </b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center"><b>Hi , I'm Phi Nguyen</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=F7C714&center=true&vCenter=true&width=435&lines=Life+is+a+great+test%2C;do+it+whether+you+want+or+not.;Math+is+core%2C+bio+builds+your+stuff.;How+can+understand+your+love%3F"></a>
