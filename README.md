@@ -5,6 +5,11 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=F7C714&center=true&vCenter=true&width=435&lines=Life+is+a+great+test%2C;do+it+whether+you+want+or+not.;Math+is+core%2C+bio+builds+your+stuff.;How+can+understand+your+love%3F"></a>
 </p>
 
+<!--- snake -->
+<div align="center">
+  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
+       alt="snake" /></a>
+</div>
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -13,11 +18,14 @@
 
 <br>
 
+<picture> <img align="right" src="https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/Right_Side.gif?raw=true" width = 250px></picture>
+
 - A passionate Self-taught Bioinformatic
 - Have a passion for researching and creating algorithms
 - Currently looking to apply math to find the principles of biology 
 - With the ambition to control and program the bio-world.
 - I’m currently open for an Intern or a new job opportunity, this is [my resume](https://github.com/Truongphi20/Truongphi20/raw/main/Phi_nguyen_cv.pdf)
+
 
 <br><br>
 
