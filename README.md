@@ -5,11 +5,9 @@
   <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=300&color=F7C714&center=true&vCenter=true&width=435&lines=Life+is+a+great+test%2C;do+it+whether+you+want+or+not.;Math+is+core%2C+bio+builds+your+stuff.;How+can+understand+your+love%3F"></a>
 </p>
 
-<!--- snake -->
-<div align="center">
-  <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
-       alt="snake" /></a>
-</div>
+<p align="center">
+  <a href="https://github.com/Truongphi20"><img src="https://github-readme-stats.vercel.app/api?username=Truongphi20&show_icons=true&theme=tokyonight" alt="Truongphi20's github stats"></a>
+</p>
 
 	
 ## <picture><img src = "https://github.com/0xAbdulKhalid/0xAbdulKhalid/raw/main/assets/mdImages/about_me.gif" width = 50px></picture> **About me**
@@ -41,14 +39,14 @@
     ![Python](https://img.shields.io/badge/Python%20-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
     ![R](https://img.shields.io/badge/R%20-%2314354C.svg?style=for-the-badge&logo=R&logoColor=white)
     ![bash](https://img.shields.io/badge/bash%20-%2314354C.svg?style=for-the-badge&logo=linux&logoColor=white)
+    ![C++](https://img.shields.io/badge/C%2B%2B-14354C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
     
 <br>
 
 - **Softwares and Tools**:
 
     ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-    ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-    ![Google](https://img.shields.io/badge/google-%234285F4.svg?style=for-the-badge&logo=google&logoColor=white)
+    ![Google Cloud](https://img.shields.io/badge/Google%20Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
     ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
     ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) 
 
