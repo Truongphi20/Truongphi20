@@ -1,16 +1,13 @@
-## Hi there 👋
+# 👋 Hi, I'm Phi Trương Nguyễn
 
-<!--
-**Truongphi20/Truongphi20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🧬 About Me
 
-Here are some ideas to get you started:
+I'm a bioinformatician with a strong interest in genomics, NGS data analysis, and computational biology.   
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy solving problems at the intersection of biology and computing, and I’m always excited to collaborate on genomics or data-driven research projects.
+
+For a full overview of my work, research, and projects, please visit my personal website:
+
+[![Visit My Website](https://img.shields.io/badge/Website-truongphi20.github.io-blue?style=for-the-badge)](https://truongphi20.github.io/)
+
+
