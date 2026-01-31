@@ -2,11 +2,11 @@
 
 ## 🧬 About Me
 
-I'm a bioinformatician with a strong interest in genomics, NGS data analysis, and computational biology.   
+I’m a bioinformatician working on genomics and NGS data analysis, with a strong interest in algorithm-driven computational biology.
 
-I enjoy solving problems at the intersection of biology and computing, and I’m always excited to collaborate on genomics or data-driven research projects.
+I focus on understanding bioinformatics tools beyond black-box usage—by studying source code, algorithms, and assumptions, and translating that insight into robust, reproducible analysis pipelines. I have experience with Nextflow, Python, and C++, and enjoy contributing to open-source genomics software.
 
-For a full overview of my work, research, and projects, please visit my personal website:
+My longer-term interest is in gene expression dynamics and biochemical pathways, bridging biological questions with computational methods.
 
 [![Visit My Website](https://img.shields.io/badge/Website-truongphi20.github.io-blue?style=for-the-badge)](https://truongphi20.github.io/)
 
