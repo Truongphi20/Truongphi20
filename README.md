@@ -11,3 +11,9 @@ My longer-term interest is in gene expression dynamics and biochemical pathways,
 [![Visit My Website](https://img.shields.io/badge/Website-truongphi20.github.io-blue?style=for-the-badge)](https://truongphi20.github.io/)
 
 
+Take a look on some blogs I wrote 👇:
+
+- [Under the hood of the “Guided Clustering Tutorial” vignette](https://truongphi20.github.io/seurat_blog/)
+- [Under the hood of the "Moving Pictures" Tutorial](https://truongphi20.github.io/qiime2_blog/)
+- [Positional Burrows-Wheeler Transform (PBWT) intuition](https://truongphi20.github.io/pbwt/posts/introduction.html)
+
